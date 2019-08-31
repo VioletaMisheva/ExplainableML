@@ -11,9 +11,10 @@ The Jypyter notebook loads and does basic pre-processing of the data. Then I imp
 - Global Surrogate model
 - LIME
 - Shapley
+- Anchors
 
 To be implemented:  
-- Anchors
+ 
 - Data Shapley
                         
   This is still work in progress, and new approaches are invented quite frequently, so I will try to keep up with them. 
